@@ -1,0 +1,15 @@
+{
+  "name": "Kairos",
+  "version": "1.0.0",
+  "description": "Kairos for netlify",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL",
+  "dependencies": {
+    "@sweph": "2.10.0",
+    "@netlify/functions": "^2.3.0",
+  }
+}
