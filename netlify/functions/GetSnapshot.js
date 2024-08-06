@@ -2,6 +2,8 @@ const { sweph } = require('sweph');
 
 exports.handler = async function (event, context) {
     try {
+        sweph.set_ephe_path("/ephemeris");
+
         return {
             statusCode: 200,
              body: JSON.stringify({"result":"todo"}),
