@@ -10,6 +10,6 @@
   "license": "GPL",
   "dependencies": {
     "@netlify/functions": "^2.3.0",
-    "sweph": "gpl"
+    "sweph": "latest"
   }
 }
