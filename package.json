@@ -9,7 +9,7 @@
   "author": "",
   "license": "GPL",
   "dependencies": {
-    "sweph": "2.10.0",
+    "sweph": "^2.10.0",
     "@netlify/functions": "^2.3.0"
   }
 }
