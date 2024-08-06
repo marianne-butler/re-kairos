@@ -1,4 +1,4 @@
-const { sweph } = require('@sweph/sweph');
+const { sweph } = require('sweph/sweph');
 
 exports.handler = async function (event, context) {
     try {
