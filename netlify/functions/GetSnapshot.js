@@ -1,4 +1,4 @@
-const { Client } = require('@notionhq/client');
+const { sweph } = require('@sweph/sweph');
 
 exports.handler = async function (event, context) {
     try {
