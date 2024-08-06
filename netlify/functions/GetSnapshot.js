@@ -1,4 +1,4 @@
-const { sweph } = require('sweph');
+const { swisseph } = require('swisseph');
 
 exports.handler = async function (event, context) {
     try {
