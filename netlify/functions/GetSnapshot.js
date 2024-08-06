@@ -1,8 +1,8 @@
-const { swisseph } = require('swisseph');
+const { sweph } = require('sweph');
 
 exports.handler = async function (event, context) {
     try {
-        swisseph.set_ephe_path("./ephemeris");
+        sweph.set_ephe_path("./ephemeris");
 
         return {
             statusCode: 200,
